@@ -423,7 +423,7 @@ The project also demonstrates practical skills in data cleaning, data visualizat
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Ami prajapati
 
 **Project:** Hospital Management and Patient Analytics Dashboard
 
